@@ -4,9 +4,27 @@
 
 {
 
-         "name": "TH-VIP-001",
+         "name": "TH-DTAC-001",
 
-         "url": "https://raw.githubusercontent.com/AZM-VPN/KoAung/main/K-Aung-01.ovpn"
+         "url": "https://raw.githubusercontent.com/sanlin2023/SanLin/main/San-01.ovpn"
+
+      },
+
+
+{
+
+         "name": "TH-TRUE-001",
+
+         "url": "https://raw.githubusercontent.com/sanlin2023/SanLin/main/San-01.ovpn"
+
+      },
+
+
+{
+
+         "name": "TH-Ais64Kbs-001",
+
+         "url": "https://raw.githubusercontent.com/sanlin2023/SanLin/main/San-02.ovpn"
 
       }
 
@@ -16,9 +34,9 @@
 
    ],
 
-"message":"25 June 2023\n\n•Version:1\n\n•✅Add 1 VIP IP✅\n\n📢By : AungMinZaw📢",
+"message":"1 August 2023\n\n•Version:1\n\n•✅Add 1 VIP IP✅\n\n📢By : SanLin📢",
 
-   "title":"🎄New Game VPS🎄" ,
+   "title":"SLVPN" ,
 
    "version": 1
 
