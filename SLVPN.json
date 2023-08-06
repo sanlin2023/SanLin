@@ -26,6 +26,33 @@
 
          "url": "https://raw.githubusercontent.com/sanlin2023/SanLin/main/San-02.ovpn"
 
+      },
+
+
+{
+
+         "name": "TH-DTAC-002",
+
+         "url": "https://raw.githubusercontent.com/sanlin2023/SanLin/main/San-03.ovpn"
+
+      },
+
+
+{
+
+         "name": "TH-TRUE-002",
+
+         "url": "https://raw.githubusercontent.com/sanlin2023/SanLin/main/San-03.ovpn"
+
+      },
+
+
+{
+
+         "name": "TH-Ais64Kbs-002",
+
+         "url": "https://raw.githubusercontent.com/sanlin2023/SanLin/main/San-04.ovpn"
+
       }
 
      
@@ -34,10 +61,10 @@
 
    ],
 
-"message":"1 August 2023\n\n•Version:1\n\n•✅Add 1 VIP IP✅\n\n📢By : SanLin📢",
+"message":"6 August 2023\n\n•Version:2\n\n•✅Add 1 VIP IP✅\n\n📢By : SanLin📢",
 
    "title":"SLVPN" ,
 
-   "version": 1
+   "version": 2
 
 }
